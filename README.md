@@ -18,4 +18,4 @@ This project simulates population dynamics and ecosystem balance through adjusta
 
 To provide an interactive way to explore **ecological balance**, **predator-prey dynamics**, and the **impact of environmental rules** using simple, game-inspired logic.
 
-Copyright © 2023 by 1ching. All rights reserved.
+Copyright © 2022 by 1ching. All rights reserved.
